@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 name = "pyghactionsandbox"
 version = "0.1.0"
 description = "Dummy Python package to test GitHub Actions install and test."
-requires-python = "==3.13.3"
+requires-python = ">=3.13.3,<3.13.4"
 dependencies = [
     "numpy==2.2.6",
 ]

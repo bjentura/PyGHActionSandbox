@@ -26,6 +26,7 @@ htmlcov/
 
 # Editor and operating-system files
 .vscode/
+!.vscode/settings.json
 .idea/
 .DS_Store
 Thumbs.db
